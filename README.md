@@ -6,6 +6,7 @@
 <p>Un pie chart ou diagramme circulaire (diagramme en secteurs et camembert en France) est un type de diagramme utilisé en statistiques pour représenter des valeurs par des angles proportionnels à ces valeurs sur un cercle.</p>
  <br />
  <image src="https://plot.ly/~PythonPlotBot/2095.png" width="400" align="center">
+
  <br />
   
 ## Utilisations usuelles
@@ -38,11 +39,11 @@ Une des limites de ce diagramme est l'impossibilité de représenter des nombres
   </tr>
    <tr>
     <td> <image src="https://s-media-cache-ak0.pinimg.com/originals/7d/f3/68/7df368516bca0beef6240404e7d47a80.jpg" width="300" align="center"></td>
-    <td> <image src="" width="300" align="center"></td>
+    <td> <image src="https://i.pinimg.com/736x/27/73/25/2773251eb519b22837b8b9c5ee649f15--pie-charts-work-life-balance.jpg" width="300" align="center"></td>
   </tr>
   <tr>
     <td>Premier résultat sur google image<br>Requête pie chart célèbre</td>
-    <td></td>
+    <td>Le pie chart peut être utilisé dans des domaines tres diverses</td>
   </tr>
 </table> 
 
@@ -51,5 +52,9 @@ Une des limites de ce diagramme est l'impossibilité de représenter des nombres
  <li>
 <a href="https://fr.wikipedia.org/wiki/Diagramme_circulaire">Page Wikipedia</a>
  </li>
+  <li>
+<a href=" https://www.google.fr/search?q=pie+chart+celebres&client=firefox-b&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwifvJDv-t_YAhUHXBQKHfmbD-8Q_AUICigB&biw=1366&bih=656#imgrc=DfYR5rS2rH8F2M:">Requete Pie chart célèbres</a>
+ </li>
+
 </ul>
 
