@@ -53,7 +53,7 @@ Une des limites de ce diagramme est l'impossibilité de représenter des nombres
 <a href="https://fr.wikipedia.org/wiki/Diagramme_circulaire">Page Wikipedia</a>
  </li>
   <li>
-<a href=" https://www.google.fr/search?q=pie+chart+celebres&client=firefox-b&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwifvJDv-t_YAhUHXBQKHfmbD-8Q_AUICigB&biw=1366&bih=656#imgrc=DfYR5rS2rH8F2M:">Requete Pie chart célèbres</a>
+<a href="https://www.google.fr/search?q=pie+chart+celebres&client=firefox-b&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwifvJDv-t_YAhUHXBQKHfmbD-8Q_AUICigB&biw=1366&bih=656#imgrc=DfYR5rS2rH8F2M:">Requête Google Pie chart célèbres</a>
  </li>
 
 </ul>
