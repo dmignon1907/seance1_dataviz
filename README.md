@@ -21,7 +21,7 @@ Une des limites de ce diagramme est l'impossibilité de représenter des nombres
     <td> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Minard-carte-viande-1858.png/800px-Minard-carte-viande-1858.png" width="300" align="center"></td>
   </tr>
   <tr>
-    <td>Pourcentage de territoire occupé par l'empire Ottoman en Asie, Europe et Afrique (1789)</td>
+    <td>Pourcentage de territoire occupé par l'empire Ottoman<br> en Asie, Europe et Afrique (1789)</td>
     <td>Carte figurative de viandes de boucherie en France</td>
   </tr>
 </table> 
