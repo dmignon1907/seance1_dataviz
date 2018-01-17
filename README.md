@@ -26,8 +26,25 @@ Une des limites de ce diagramme est l'impossibilité de représenter des nombres
   </tr>
 </table> 
 
-## Quelques Pie chart célèbres
-
+## Quelques exemples de Pie chart intéressants
+ <table style="width:100%">
+  <tr>
+    <td align="center"> <image src="http://img.over-blog-kiwi.com/1/23/41/63/20160113/ob_140559_france-et-religions.jpg" width="300" ></td>
+    <td> <image src="https://www.edf.fr/sites/default/files/contrib/groupe-edf/espaces-dedies/Espace%20p%C3%A9dagogie/home/tout-sur-lenergie/produire-de-lelectricite/le-nucleaire/le-nucleaire-chiffres/schema_france.png" width="300" align="center"></td>
+  </tr>
+  <tr>
+    <td style="text:center">Pourcentage des religions en France</td>
+    <td>Production de l'énergie en france</td>
+  </tr>
+   <tr>
+    <td> <image src="https://s-media-cache-ak0.pinimg.com/originals/7d/f3/68/7df368516bca0beef6240404e7d47a80.jpg" width="300" align="center"></td>
+    <td> <image src="" width="300" align="center"></td>
+  </tr>
+  <tr>
+    <td>Premier résultat sur google image<br>Requête pie chart célèbre</td>
+    <td></td>
+  </tr>
+</table> 
 
 ## Sources
 <ul>
